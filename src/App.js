@@ -12,6 +12,9 @@ import {
   SearchFeed,
 } from "./components";
 
+// CSS
+import './components/style.css';
+
 const App = () => {
   return (
     <BrowserRouter>
